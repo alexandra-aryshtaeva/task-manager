@@ -1,0 +1,7 @@
+# Task-manager exercise
+
+Let's create a small project involving arrays, filtering, and basic logic.
+
+How about a task manager that allows you to add tasks, mark them as completed, and filter them based on their status?
+
+In this example, the TaskManager class allows you to add tasks, mark them as completed, filter tasks by their completion status, and display all tasks. You can extend this project by adding more features, such as task deletion, due dates, or persisting tasks to local storage.
